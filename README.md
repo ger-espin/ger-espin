@@ -17,13 +17,13 @@ Me apasiona resolver problemas complejos mediante el uso de simulaciones numéri
 
 ### 🔬 Proyectos Destacados
 
-#### 1. [Simulación de Fluidos mediante LBM](enlace-al-repo)
+#### 1. [Simulación de Fluidos mediante LBM](https://github.com/ger-espin/Simulacion-LBM.git)
 Desarrollo de un simulador en Python utilizando el método Lattice-Boltzmann para estudiar la formación de vórtices y coeficientes de arrastre alrededor de obstáculos.
 
-#### 2. [Arquitecturas Híbridas CNN-LSTM]([[enlace-al-repo](https://github.com/ger-espin/CNN-LSTM-VisualizacionArtificial.git)](https://github.com/ger-espin/CNN-LSTM-VisualizacionArtificial.git))
+#### 2. [Arquitecturas Híbridas CNN-LSTM](https://github.com/ger-espin/CNN-LSTM-VisualizacionArtificial.git)
 Implementación de modelos de Deep Learning para el procesamiento de secuencias, optimizando métricas de rendimiento como el Character Error Rate (CER).
 
-#### 3. [Modelado de Autoensamblaje Viral]
+#### 3. Modelado de Autoensamblaje Viral
 Simulación numérica y visualización de estructuras icosaédricas para el estudio de cápsides virales, aplicando conceptos de geometría y computación científica.
 
 ---
