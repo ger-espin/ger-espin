@@ -1,44 +1,72 @@
-# ¡Hola! Soy Gerardo Espinosa Ramírez 👋
+# 👋 Hola, soy Gerardo Espinosa
 
-### 🚀 Físico Computacional | Aspirante a Data Scientist & ML Engineer
-
-Me apasiona resolver problemas complejos mediante el uso de simulaciones numéricas, análisis de datos y modelos de aprendizaje profundo. Mi enfoque combina el rigor de la física con la Inteligencia Artificial.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-* **Lenguajes:** Python (NumPy, Pandas, Matplotlib), SQL, C++, Bash.
-* **IA & Deep Learning:** TensorFlow, Keras, Scikit-learn (Experiencia en arquitecturas CNN y Bi-LSTM).
-* **Simulación & Cálculo:** Métodos Numéricos, Lattice-Boltzmann Method (LBM), Dinámica de Fluidos Computacional.
-* **Herramientas:** Git, Docker, Google Colab, LaTeX/TikZ para documentación técnica.
+🎯 Machine Learning Engineer (Junior) enfocado en Computer Vision  
+🧠 Licenciado en Física con experiencia en modelado computacional y análisis de datos  
+💻 Python | Deep Learning | Data Science  
 
 ---
 
-### 🔬 Proyectos Destacados
+## 🚀 Sobre mí
 
-#### 1. [Simulación de Fluidos mediante LBM](https://github.com/ger-espin/Simulacion-LBM.git)
-Desarrollo de un simulador en Python utilizando el método Lattice-Boltzmann para estudiar la formación de vórtices y coeficientes de arrastre alrededor de obstáculos.
+Soy físico con formación en métodos numéricos, simulación y análisis de datos, actualmente enfocado en el desarrollo de soluciones de Inteligencia Artificial y Machine Learning.
 
-<img width="800" height="400" alt="vel 00308" src="https://github.com/user-attachments/assets/f18e477e-1e5f-4f5f-8ed0-ad1ef95ef572" />
-
-
-#### 2. [Arquitecturas Híbridas CNN-LSTM](https://github.com/ger-espin/CNN-LSTM-VisualizacionArtificial.git)
-Implementación de modelos de Deep Learning para el procesamiento de secuencias, optimizando métricas de rendimiento como el Character Error Rate (CER).
-
-#### 3. Modelado de Autoensamblaje Viral
-Simulación numérica y visualización de estructuras icosaédricas para el estudio de cápsides virales, aplicando conceptos de geometría y computación científica.
-<img width="507" height="507" alt="T3_1" src="https://github.com/user-attachments/assets/6f51adbb-3e00-4a90-a294-98eee8353786" />
+Me interesa aplicar modelos de aprendizaje automático para resolver problemas reales, especialmente en procesamiento de imágenes y análisis de datos.
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ger-espin&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ger-espin&layout=compact&theme=radical)
+## 🛠️ Tecnologías
+
+**Lenguajes:**  
+Python, C++  
+
+**Machine Learning / AI:**  
+Scikit-learn, Keras, Deep Learning, Modelos supervisados y no supervisados  
+
+**Data & Visualización:**  
+Pandas, Numpy, Matplotlib, Seaborn, TikZ (LaTeX)  
+
+**Herramientas:**  
+Linux, Git, Visual Studio  
 
 ---
 
-### 📫 Contacto e Idiomas
-* **Idiomas:** Español (Nativo), Inglés (B2), Francés (B1).
-* **LinkedIn:** [www.linkedin.com/in/gerardo-espinosa-ramírez-39824a3a1](www.linkedin.com/in/gerardo-espinosa-ramírez-39824a3a1)
-* **Email:** jerry.espns10@gmail.com
+## 📌 Proyectos Destacados
+
+### 🧠 Reconocimiento de ecuaciones matemáticas (Computer Vision)
+- Desarrollo de modelo de deep learning para reconocer ecuaciones desde imágenes
+- Implementación de redes neuronales convolucionales (CNN)
+- Preprocesamiento y normalización de imágenes
+- Entrenamiento y evaluación del modelo
+
+🔗 *(https://github.com/ger-espin/CNN-LSTM-VisualizacionArtificial.git)*
+
+---
+
+### 🧬 Simulación de autoensamblaje de cápsides virales
+- Simulación y análisis de sistemas físicos complejos
+- Visualización de datos para interpretación de resultados
+
+---
+
+## 📊 Actualmente
+
+🚀 Desarrollando proyectos en Computer Vision y análisis de datos  
+
+---
+
+## 🌎 Idiomas
+
+- Español: Nativo  
+- Inglés: B2  
+- Francés: B1  
+
+---
+
+## 📫 Contacto
+
+📧 jerry.espns10@gmail.com  
+💼 https://www.linkedin.com/in/gerardo-espinosa-ram%C3%ADrez-39824a3a1/
+
+---
+
+⭐ Siempre abierto a oportunidades en Machine Learning, Data Science y desarrollo tecnológico
