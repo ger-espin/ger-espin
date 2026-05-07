@@ -65,7 +65,7 @@ Linux, Git, Visual Studio
 ## 📫 Contacto
 
 📧 jerry.espns10@gmail.com  
-💼 https://www.linkedin.com/in/gerardo-espinosa-ram%C3%ADrez-39824a3a1/
+💼 https://www.linkedin.com/in/ger-espin1098
 
 ---
 
